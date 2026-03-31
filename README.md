@@ -1,5 +1,3 @@
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/12779b6e-2792-438e-818f-693dcfad850e" />
-
 <br/>
 
 ### Habilidades em:
