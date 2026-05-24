@@ -8,7 +8,7 @@
 ## 👨‍💻 Sobre mim
 
 Sou estudante de **Ciência da Computação** (7º semestre) na **Universidade Federal de Ouro Preto (UFOP)** — Ouro Preto, MG.  
-Atuo como **Assessor Comercial** na empresa júnior [**VOLUTA Soluções Digitais**](https://www.linkedin.com/company/voluta-ufop), onde desenvolvo habilidades de negócios e tecnologia na prática.
+Atuo como **Assessor Comercial** na empresa júnior [**VOLUTA Soluções Digitais**](https://www.linkedin.com/company/volutasd/), onde desenvolvo habilidades de negócios e tecnologia na prática.
 
 - 🎯 Apaixonado por **desenvolvimento Full-Stack, Mobile, IA e Back-end**
 - 🏗️ Sempre buscando projetos desafiadores que unem engenharia e impacto real
