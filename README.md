@@ -56,7 +56,7 @@ Atuo como **Assessor Comercial** na empresa júnior [**VOLUTA Soluções Digitai
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=J0ao3005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=J0ao3005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0ao3005&layout=compact&langs_count=7&theme=tokyonight&v=1"/>
 </div>
 
