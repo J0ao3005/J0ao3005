@@ -59,19 +59,6 @@ Atuo como **Coordenador Comercial** na [**Voluta Soluções Digitais**](https://
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=J0ao3005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0ao3005&layout=compact&langs_count=7&theme=tokyonight&v=1)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=J0ao3005&theme=tokyonight)
-
-</div>
-
----
-
 ### 🤝 Vamos nos conectar
 
 <div align="center">
